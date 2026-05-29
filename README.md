@@ -1,6 +1,9 @@
 # おみくじアプリ
 人生初のWebアプリです。Webアプリ作成の練習として作成しました。
 
+## URL
+https://haruka-craft.github.io/omikuji/
+
 ## 概要
 ボタンを押すとランダムでおみくじ結果が表示されます。
 
